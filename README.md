@@ -1,8 +1,9 @@
 ## Using JUnit
 ### Description
-Write unit tests that automatically check the functionality of the program
+In this task you need:
+1. Write unit tests that automatically check the functionality of the program
 
-### Realisation
+### Realization
 I used:
 1. <a href="https://github.com/imLIVI/Abstract-classes"> Project "Bank accounts"</a>
 2. JUnit - framework
