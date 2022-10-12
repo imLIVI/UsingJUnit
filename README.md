@@ -1,4 +1,4 @@
-## UsingJUnit
+## Using JUnit
 ### Description
 Write unit tests that automatically check the functionality of the program
 
